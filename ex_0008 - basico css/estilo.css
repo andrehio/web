@@ -1,0 +1,15 @@
+/*
+CSS
+*/
+
+h1{
+    color: blue;
+    font-size: 18px;
+    font-family: helvetica, sans-serif;
+}
+#css{
+    color: green;
+}
+p.paragrafo{
+    color: yellow;
+}
